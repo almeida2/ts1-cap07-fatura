@@ -13,6 +13,11 @@ import org.joda.time.Days;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
 
+/**
+ * Registra o contrato de venda de servicos para o cliente
+ * @author almei
+ *
+ */
 public class Fatura {
 
 	int numero;
