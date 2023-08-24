@@ -15,7 +15,9 @@ import org.joda.time.format.DateTimeFormatter;
 
 /**
  * Registra o contrato de venda de servicos para o cliente
- * @author almei teste
+ * Do not allow bypassing the above settings
+ * outro teste
+ * @author almei 
  *
  */
 public class Fatura {
