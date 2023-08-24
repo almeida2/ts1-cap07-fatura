@@ -17,6 +17,7 @@ import org.joda.time.format.DateTimeFormatter;
  * Registra o contrato de venda de servicos para o cliente
  * Do not allow bypassing the above settings
  * outro teste
+ * teste no dia 24.08
  * @author almei 
  *
  */
